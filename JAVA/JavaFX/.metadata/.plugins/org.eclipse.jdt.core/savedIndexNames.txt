@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\piray\Desktop\File\Code\Basic_syntax\JAVA\JavaFX\.metadata\.plugins\org.eclipse.jdt.core
+1536574621.index
+1865797976.index
+760091825.index

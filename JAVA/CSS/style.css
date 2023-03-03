@@ -1,0 +1,43 @@
+
+body{
+    background-color: #f4f4f4;
+    color:#555555;
+    /*
+    font-family: "Comic Sans MS",cursive,sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+        shorter way to code*/
+    font: normal 16px Arial,Helvetica,sans-serif;
+    line-height: 1.4em;
+    margin:0px;
+}
+
+
+.container{
+    width:80%;
+    margin:auto;
+}
+
+
+.box1{
+    background-color:#333333;
+    color:#fff;
+
+    border-right :5px red solid;
+    border-left: 5px blue solid;
+    /* same as above */
+    border: 5px red solid;
+    border-width:3px;
+    border-top-style: dotted;
+
+    border: 5px red solid;
+
+    padding: 20px;
+
+    margin-top:20px;
+}
+
+.box2 h1 {
+    text-align: center;
+}
+
